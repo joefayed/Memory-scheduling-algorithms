@@ -1,0 +1,18 @@
+D:\Cs\Graphics 1\Assignments\OSLecProj1\OSLecProj1\bin\Debug\OSLecProj1.exe.config
+D:\Cs\Graphics 1\Assignments\OSLecProj1\OSLecProj1\bin\Debug\OSLecProj1.exe
+D:\Cs\Graphics 1\Assignments\OSLecProj1\OSLecProj1\bin\Debug\OSLecProj1.pdb
+D:\Cs\Graphics 1\Assignments\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.csprojResolveAssemblyReference.cache
+D:\Cs\Graphics 1\Assignments\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.Form1.resources
+D:\Cs\Graphics 1\Assignments\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.Properties.Resources.resources
+D:\Cs\Graphics 1\Assignments\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.csproj.GenerateResource.Cache
+D:\Cs\Graphics 1\Assignments\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.exe
+D:\Cs\Graphics 1\Assignments\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.pdb
+D:\Cs\Projects\OS2\OSLecProj1\OSLecProj1\bin\Debug\OSLecProj1.exe.config
+D:\Cs\Projects\OS2\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.exe
+D:\Cs\Projects\OS2\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.pdb
+D:\Cs\Projects\OS2\OSLecProj1\OSLecProj1\bin\Debug\OSLecProj1.exe
+D:\Cs\Projects\OS2\OSLecProj1\OSLecProj1\bin\Debug\OSLecProj1.pdb
+D:\Cs\Projects\OS2\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.csprojResolveAssemblyReference.cache
+D:\Cs\Projects\OS2\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.Form1.resources
+D:\Cs\Projects\OS2\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.Properties.Resources.resources
+D:\Cs\Projects\OS2\OSLecProj1\OSLecProj1\obj\Debug\OSLecProj1.csproj.GenerateResource.Cache
